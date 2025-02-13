@@ -1,8 +1,3 @@
-//Function Program for CISP 1020
-//Jennifer Talford
-//Sept 9th, 2023
-//Program accepts user input scores with corresponding names and outputs the total scores in ascending order and gives the average.
-
 #include <iostream>
 // provides manipulators that can be used to format the output of your streams (change width, direction (left/right), etc)
 #include <iomanip>
