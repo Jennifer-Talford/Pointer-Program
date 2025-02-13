@@ -1,0 +1,23 @@
+Alexander 100
+Joseph 70
+Sally 80
+Barry 85
+Harold 96
+Karen 75
+William 100
+Paul 55
+Randall 88
+Susan 75
+Terry 50
+Ida 60
+Warren 66
+Leslie 87
+Almeda 100
+Linda 77
+Mary 67
+Roger 92
+Zach 82
+Callie 10
+
+
+ 
