@@ -1,5 +1,4 @@
 //Function Program for CISP 1020
-//Jennifer Talford
 //Sept 9th, 2023
 //Program accepts user input scores and outputs the total scores in ascending order and gives the average.
 
